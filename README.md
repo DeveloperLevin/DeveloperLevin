@@ -3,7 +3,7 @@
 ![logo](https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=ecf05e47tjnfwd8ig2akn5l4smq2abxnl6l1fo0lpcqs17j7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # Hey there, I'm Levin Samson Moras
-**I'm a computer science student passionate about web development and continuously learning new technologies. As a web developer, I enjoy creating engaging and interactive experiences online. I'm also beginning to explore machine learning and am excited about diving deeper into this field. I thrive on collaborating with others and discussing tech topics, viewing every challenge as an opportunity for growth and improvement.**
+**I'm a Computer Engineering Undergrad passionate about web development and continuously learning new technologies. As a developer, I enjoy creating engaging and interactive experiences online. I'm also beginning to explore machine learning & embedded system and am excited about diving deeper in these fields. I love creating something from nothing**
 
 
 <hr>
