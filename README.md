@@ -6,7 +6,7 @@
 
 ### Computer Engineering Undergraduate | Passionate Developer
 
-Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am currently exploring machine learning, Arduino, and mobile development. I thrive on the challenge of turning ideas into tangible solutions.
+Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am currently exploring Web Development and MAchine Learning. I thrive on the challenge of turning ideas into tangible solutions.
 
 <hr>
 
