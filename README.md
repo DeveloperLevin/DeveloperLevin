@@ -37,7 +37,7 @@ Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong 
 ### About Me
 
 - 💻 Improving my DSA skills
-- 🌱 Currently working with ReactJS, OpenCV, and GenAI
+- 🌱 Currently working with MERN, Machine Learning, and GenAI
 - 📫 Reach me at levin.develops@gmail.com
 
 <hr>
