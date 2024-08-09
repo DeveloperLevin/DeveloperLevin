@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=ecf05e47tjnfwd8ig2akn5l4smq2abxnl6l1fo0lpcqs17j7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Logo" width="100" height="100">
+  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=ecf05e47tjnfwd8ig2akn5l4smq2abxnl6l1fo0lpcqs17j7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Logo" height="100">
 
   <h1>Levin Samson Moras</h1>
   <h2>Computer Engineering Undergraduate | Passionate Developer</h2>
