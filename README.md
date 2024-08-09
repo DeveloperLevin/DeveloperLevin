@@ -49,14 +49,6 @@ Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong 
 
 <hr>
 
-### About Me
-
-- 💻 Improving my DSA skills
-- 🌱 Currently working with MERN, Machine Learning, and GenAI
-- 📫 Reach me at levin.develops@gmail.com
-
-<hr>
-
 <h3 align="center">A Passionate Developer from India</h3>
 
 <p align="center">
