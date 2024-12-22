@@ -5,10 +5,14 @@
   <h1>Levin Samson Moras</h1>
   <h2>Computer Engineering Undergrad | Passionate Developer</h2>
 
-  <p>
-    Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am currently exploring Web Development and Machine Learning. I thrive on the challenge of turning ideas into tangible solutions.
+ <p>
+    Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am building more Web, Machine Learning(haven't learned any frameworks yet), and generative AI projects. I'm learning Three.js, game development with GODOT, mobile development, and IoT in my spare time. Quite ambitious I know.
   </p>
 
+  <p>
+    I plan to learn <b>Blender</b>, and <b>Davinci Resolve </b> in the future!
+  </p>
+  
   <hr>
 
   <h3>Languages and Tools</h3>
