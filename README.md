@@ -3,10 +3,10 @@
   ![Logo](https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=ecf05e47tjnfwd8ig2akn5l4smq2abxnl6l1fo0lpcqs17j7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
   <h1>Levin Samson Moras</h1>
-  <h2>Computer Engineering Undergrad | Passionate Developer</h2>
+  <h2>Computer Engineering Undergrad | Software Engineer and Developer</h2>
 
  <p>
-    Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am building more Web, Machine Learning(haven't learned any frameworks yet), and generative AI projects. I'm learning Three.js, game development with GODOT, mobile development, and IoT in my spare time. Quite ambitious I know.
+    Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am building more <b>Web</b>, <b>Machine Learning(haven't learned any frameworks yet)</b>, and <b>generative AI</b> projects. I'm learning <b>Three.js</b>, <b>game development with GODOT</b>, <b>mobile development</b>, and <b>IoT</b> in my spare time. Quite ambitious I know.
   </p>
 
   <p>
