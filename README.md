@@ -6,11 +6,7 @@
   <h2>Computer Engineering Undergrad | Software Engineer and Developer</h2>
 
  <p>
-    Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences and am building more <b>Web</b>, <b>Machine Learning(haven't learned any frameworks yet)</b>, and <b>generative AI</b> projects. I'm learning <b>Three.js</b>, <b>game development with GODOT</b>, <b>mobile development</b>, and <b>IoT</b> in my spare time. Quite ambitious I know.
-  </p>
-
-  <p>
-    I plan to learn <b>Blender</b>, and <b>Davinci Resolve </b> in the future!
+    Hey there! I'm Levin Samson Moras, a Computer Engineering student with a strong passion for development and a keen interest in learning new technologies. I specialize in creating engaging and interactive online experiences building more <b>Web</b>, <b>Machine Learning(haven't learned any frameworks yet)</b>, and <b>generative AI</b> projects. I'm learning <b>game development with GODOT</b>, <b>mobile development</b>, and <b>IoT</b> in my spare time. Quite ambitious I know.
   </p>
   
   <hr>
